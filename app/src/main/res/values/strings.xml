@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ZZ_MD_BottomNavigation__JVm</string>
+    <string name="Menu_1_IDXML">Chat</string>
+    <string name="Menu_2_IDXML">Kontak</string>
+    <string name="Menu_3_IDXML">Penyimpanan</string>
+</resources>
